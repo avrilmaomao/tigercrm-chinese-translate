@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EXPAND">   <![CDATA[
+    .....<br><br> <b><font color="#000000">展开</font></b>
+    ]]></string>
+    <string name="phone_icon"> [&#xf095;]</string>
+    <string name="view">查看</string>
+    <string name="urlA">Url: <font color="red"> *</font> </string>
+    <string name="asteric"><font color="red"> *</font></string>
+    <string name="networkFailed">网络异常</string>
+    <string name="networkFailed_msg">同步未完成</string>
+    <string name="syncEnd_msg1">无法访问以下模块:</string>
+    <string name="syncEnd_msg2">联系系统管理员</string>
+    <string name="sessionExpired">会话过期</string>
+    <string name="sessionExpired_Msg">会话已经过期，请重新打开应用</string>
+    <string name="AboutApp">关于</string>
+    <string name="deleteList">确定删除?</string>
+    <string name="deleteList_msg">确定从仪表板删除?</string>
+
+    <string name="ProjectTask">项目任务</string>
+    <string name="forecast">预测</string>
+    <string name="Campaigns">活动</string>
+    <string name="Vendors">供应商</string>
+    <string name="Calendar">日历</string>
+    <string name="Contacts">联系人</string>
+    <string name="Products">产品</string>
+    <string name="Documents">文档</string>
+    <string name="Emails">邮件</string>
+    <string name="Events">事件</string>
+    <string name="Services">服务</string>
+    <string name="ModComments">模块评论</string>
+    <string name="DocumentFolders">文档目录</string>
+    <string name="HelpDesk">服务台</string>
+    <string name="Quotes">报价</string>
+    <string name="ServiceContracts">服务合同</string>
+    <string name="Users">用户</string>
+    <string name="CompanyDetails">公司详情</string>
+    <string name="Currency">货币</string>
+    <string name="Faq">常见问题</string>
+    <string name="Invoice">发票</string>
+    <string name="ProjectMilestone">项目里程碑</string>
+    <string name="PriceBooks">价格表</string>
+    <string name="Assets">资产</string>
+    <string name="Project">项目</string>
+    <string name="Leads">潜在客户</string>
+    <string name="SalesOrder">销售订单</string>
+    <string name="Accounts">账户</string>
+    <string name="Groups">组</string>
+    <string name="Potentials">销售机会</string>
+    <string name="PBXManager">PBXManager</string>
+    <string name="LineItem">行项</string>
+    <string name="AddDetails">添加详情</string>
+    <string name="ListofRecords">记录列表</string>
+    <string name="SMSNotifier">短信通知</string>
+
+    <string name="app_name">CRMTiger</string>
+    <string name="action_settings">设置</string>
+   
+    <!-- Color -->
+
+    <color name="text_color">#000000</color>
+    <color name="sv_color">#cad0d4</color>
+    <color name="view_color">#808080</color>
+    <color name="login_depth">#e6e6e6</color>
+    <color name="blue">#ebf7ff</color>
+    <color name="green">#add727</color>
+
+    <!-- Menu -->
+    <string name="logout">注销</string>
+    <string name="setting">设置</string>
+    <string name="more">更多</string>
+    <string name="sync">同步</string>
+    <string name="powered"><u><i>Powered by Variance Infotech</i></u></string>
+
+    <!-- Acount Display -->
+
+    <string name="Login">登录</string>
+    <string name="vTigetUrl">vTiget地址</string>
+    <string name="UrlHint">Url</string>
+    <string name="User">用户</string>
+    <string name="UserHint">用户名</string>
+    <string name="After">之后</string>
+
+    <!-- AcountDisplay -->
+
+    <string name="Edit">编辑</string>
+    <string name="Acc">Acc:</string>
+    <string name="AccHint">AccHint:</string>
+    <string name="Api">Api:</string>
+    <string name="ApiHint">ApiHint</string>
+    <string name="Password">Password</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+
+    <!-- Alert -->
+    <string name="Alerts">警告</string>
+
+    <!-- Home -->
+    <string name="More">更多</string>
+    <string name="Sync">同步</string>
+    <string name="scan">扫描</string>
+
+    <!-- ListModule -->
+    <string name="Modules">模块</string>CRMTiger
+    <string name="CRMTiger">CRMTiger</string>
+    <string name="Copyright"> Copyright \u00A9 2016 CRMTiger \n
+    Version 2.0</string>
+    <string name="logoutData"><b> 注销</b>  \n
+    清除数据?</string>
+    <!-- Registration -->
+    <string name="Registration">注册</string>
+    <string name="Ticket">Ticket</string><!-- New Ticket -->
+
+    <!-- No filed -->
+
+    <string name="Ticket_sel">Ticket_sel</string>
+    <string name="Ticket_for">Ticket_for</string>
+    <string name="NoTicket">No Ticket</string>
+    <string name="NoNewTicket">No New Ticket</string>
+
+    <!-- Purchase -->
+    <string name="PurchaseOrder">Purchase Order</string>
+    <string name="Done">Done</string>
+    <string name="OnAvg">OnAvg</string>
+
+    <!-- Popup -->
+    <string name="Contact">Contact</string>
+    <string name="Account">Account</string>
+    <string name="Lead">Lead</string>
+    <string name="Create">Create</string>
+    <string name="next">Next</string>
+
+
+    <!-- Scan -->
+    <string name="Scan">Scan</string>
+    <string name="Gallery">Gallery</string>
+    <string name="ScanNow">Scan Now</string>
+    <string name="SelectImg">Select Imgage</string>
+    <string name="ScanUsing">Scan Using</string>
+
+    <string name="VariURL">VariURL</string>
+    <string name="Delete">Delete</string>
+    <string name="Deletemsg">Delete Msg</string>
+    <string name="Alertnot">Alert module access not available</string>
+    <string name="Exit">Exit</string>
+    <string name="Exitmsg">Are you sure you want to exit?</string>
+    <string name="Deletemsg2">Are you sure you want to delete record?</string>
+    <string name="logoutMsg">Are you sure you want to Logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add">Add </string>
+    <string name="addAc">Add Ac</string>
+    <string name="process">Process</string>
+    <string name="deleteDB">Delete DB</string>
+    <string name="Deleted">Deleted</string>
+    <string name="InProg">Just few moments till we sync everything for you \n \n </string>
+    <string name="toDelete">Delete</string>
+    <string name="noNet">No Net</string>
+    <string name="wrongCre">Wrong Cre</string>
+    <string name="wrongUrl">Wrong Url</string>
+    <string name="loading">Loading...</string>
+    <string name="LoginMgs">We are preparing to Sync your data, please wait few moments</string>
+    <string name="invalUser">Invalid User</string>
+    <string name="ok">Ok</string>
+    <string name="User1">User1</string>
+    <string name="Norecordtodisplay">No record Available!!!</string>
+    <string name="Group">Group</string>
+    <string name="empty">Empty</string>
+    <string name="SomeError">Some Error...</string>
+    <string name="saved">Saved</string>
+    <string name="netMsg">Network is slow or not available</string>
+    <string name="dash">Dashboard</string>
+    <string name="report">Report an issue</string>
+    <string name="history_msg">No history to display  </string>
+    <string name="camera_permission">Can \'t start camera,please check camera permission in system settings</string>
+    <string name="recordUnavailable">Record is not available</string>
+    <string name="notEmpty">Not Empty</string>
+    <string name="Completed">Completed</string>
+    <string name="Wait">Wait...</string>
+    <string name="CalendarList">Calendar List</string>
+    <string name="PlzWait">Please Wait...</string>
+    <string name="pd_historyMsg">Wait till we sync your history</string>
+    <string name="pd_AlertCount">Counting alerts...</string>
+    <string name="pd_AlertRefresh">...Refreshing data</string>
+    <string name="Updating">Updating...</string>
+    <string name="pd_calendarListMsg">Wait till Events gets load</string>
+    <string name="pd_calendarListRefreshMsg">Wait until Events list refreshed</string>
+    <string name="Deleting">Deleting...</string>
+    <string name="Synchronizing">Synchronizing...</string>
+    <string name="Updated">Updated</string>
+    <string name="lost">Lost</string>
+    <string name="NotUpdated">Not Updated</string>
+    <string name="none">None</string>
+    <string name="offlineModuleSync"> Offline Module Sync</string>
+    <string name="datanotavailable">There are no items to show in this view.\n\n
+    To add new List item, click on <b>Button</b> below</string>
+    <string name="offlineDataSync"> Offline Data Sync</string>
+    <string name="selectNo">Select Number</string>
+    <string name="selectfield">Select Field</string>
+    <string name="notscan">Not Scan</string>
+    <string name="Feilds">Field Validation</string>
+    <string name="displayMsg">Select field to display records accordingly</string>
+    <string name="EnterField">Please enter field</string>
+    <string name="NameEmpty">Name Empty</string>
+    <string name="SyncSetting">Sync Setting</string>
+    <string name="enterDate">Enter Date</string>
+    <string name="enterTime">Enter Time</string>
+
+    <string name="scanMsg">Scan QR Code To Add Lead, Contact or Account directly</string>
+    <string name="colorPrimaryP">#FF4081</string>
+    <string name="colorPrimaryO">#d9a050</string>
+    <string name="colorPrimaryB">#409cff</string>
+    <string name="colorPrimaryV">#8f6dd2</string>
+    <string name="colorPrimaryG">#387e30</string>
+    <string name="colorPrimaryR">#ff5340</string>
+    <string name="title_activity_dummy">dummy</string>
+
+    <string name="idleticketalert">Idle Ticket Alert</string>
+    <string name="New_Ticket_Alert">New Ticket Alert</string>
+    <string name="Pending_Ticket_Alert">Pending Ticket Alert</string>
+    <string name="Upcoming_Opportunity">Upcoming Opportunity</string>
+    <string name="Your_events_for_the_day">Your events for the day</string>
+    <string name="My_Project_Task">My Project Task</string>
+    <string name="My_Projects">My Projects</string>
+
+    <string name="Alert24">Alert sent when ticket has not been updated in 24 hours</string>
+    <string name="Alert_ticket">Alert sent when a ticket is assigned to you</string>
+    <string name="Alert_ticket_closed">Alert sent when ticket assigned is not yet closed</string>
+    <string name="Potential_5_days">Alert sent when Potential Close Date is due before 5 days or less</string>
+    <string name="todaysEvents">Alert sent when events are scheduled for the day</string>
+    <string name="Project_Task_Assigned">Project Task Assigned To Me</string>
+    <string name="Projects_Related">Projects Related To Me</string>
+
+
+    <string name="select_lang">Select Language</string>
+    <string-array name="lang_spinner">
+        <item>English</item>
+        <item>Deutsche</item><!--german-->
+        <item>Ελληνικά</item><!--greek-->
+        <item>עִברִית</item>  <!--hebrew-->
+        <item>عربى</item> <!--arabic-->
+        <item>Русский</item> <!--russian-->
+    </string-array>
+    <string name="at_scan">It is invalid QR code!</string>
+    <string name="at_scanMsg">Do you want to continue?</string>
+    <string name="theme">Theme</string>
+    <string name="setting_module_summary">Select the Module to change the display Field</string>
+    <string name="Disable_Enable_Modules">Disable/Enable Modules</string>
+    <string name="Module_Not_to_be_Shown">Select the Module to be Shown</string>
+    <string name="at_scanYes">Continue...</string>
+    <string name="selectionfield">Selection Field</string>
+    <string name="the_field_for">The Field for adding Record</string>
+    <string name="at_scanNo">Go Back!</string>
+    <string name="Notification">Notification</string>
+    <string name="Vibration">Vibration</string>
+    <string name="Sound">Sound</string>
+    <string name="Synchronisation">Synchronization</string>
+    <string name="Auto_Sync">Auto Sync</string>
+    <string name="Sync_only_with_WiFi">Sync only with WiFi</string>
+    <string name="Sync_will_done_only_when_Wifi_is_ON">Sync will done only when Wifi is ON</string>
+    <string name="Sync_can_use_for_Mobile_Data">Sync can use for Mobile Data</string>
+    <string name="SyncDeviceContact">Sync Device Contact</string>
+    <string name="Smartview">Smart view</string>
+    <string name="AddRecord">Add Record</string>
+    <string name="Youwillbeabletoaddrecord">You will be able to add record</string>
+    <string name="Youwillnotbeabletoaddrecord">You will not be able to add record</string>
+    <string name="Others">Others</string>
+    <string name="RateApp">Rate Our App!</string>
+    <string name="ShareApp">Share Our App</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="history">History</string>
+    <string name="types">My List</string>
+    <string name="lbl_sun">SUN</string>
+    <string name="lbl_mon">MON</string>
+    <string name="lbl_tue">TUE</string>
+    <string name="lbl_wed">WED</string>
+    <string name="lbl_thu">THU</string>
+    <string name="lbl_fri">FRI</string>
+    <string name="lbl_sat">SAT</string>
+    <string name="selection">Selection</string>
+    <string name="recent_history_modules">Recent History Modules</string>
+    <string name="recent_history_message">Select the Module for History</string>
+
+
+    <!--Calendar -->
+    <string name="lbl_1">1</string>
+    <string name="lbl_2">2</string>
+    <string name="lbl_3">3</string>
+    <string name="lbl_4">4</string>
+    <string name="lbl_5">5</string>
+    <string name="lbl_6">6</string>
+    <string name="lbl_7">7</string>
+    <string name="lbl_8">8</string>
+    <string name="lbl_9">9</string>
+    <string name="lbl_10">10</string>
+    <string name="lbl_11">11</string>
+    <string name="lbl_12">12</string>
+    <string name="lbl_13">13</string>
+    <string name="lbl_14">14</string>
+    <string name="lbl_15">15</string>
+    <string name="lbl_16">16</string>
+    <string name="lbl_17">17</string>
+    <string name="lbl_18">18</string>
+    <string name="lbl_19">19</string>
+    <string name="lbl_20">20</string>
+    <string name="lbl_21">21</string>
+    <string name="lbl_22">22</string>
+    <string name="lbl_23">23</string>
+    <string name="lbl_24">24</string>
+    <string name="lbl_25">25</string>
+    <string name="lbl_26">26</string>
+    <string name="lbl_27">27</string>
+    <string name="lbl_28">28</string>
+    <string name="lbl_29">29</string>
+    <string name="lbl_30">30</string>
+    <string name="lbl_31">31</string>
+    <string name="lbl_32">32</string>
+    <string name="lbl_33">33</string>
+    <string name="lbl_34">34</string>
+    <string name="lbl_35">35</string>
+    <string name="lbl_36">36</string>
+    <string name="lbl_37">37</string>
+    <string name="lbl_38">38</string>
+    <string name="lbl_39">39</string>
+    <string name="lbl_40">40</string>
+    <string name="lbl_41">41</string>
+    <string name="lbl_42">42</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="fa_shut_down">&#xf011;</string>
+</resources>
